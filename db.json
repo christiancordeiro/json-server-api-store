@@ -1,246 +1,244 @@
 {
   "products": [
     {
-    "id": 1,
-    "title": "Majestic Mountain Graphic T-Shirt",
-    "price": 44,
-    "description": "Elevate your wardrobe with this stylish black t-shirt featuring a striking monochrome mountain range graphic. Perfect for those who love the outdoors or want to add a touch of nature-inspired design to their look, this tee is crafted from soft, breathable fabric ensuring all-day comfort. Ideal for casual outings or as a unique gift, this t-shirt is a versatile addition to any collection.",
-    "images": [
+      "id": 1,
+      "title": "Majestic Mountain Graphic T-Shirt",
+      "price": 44,
+      "description": "Elevate your wardrobe with this stylish black t-shirt featuring a striking monochrome mountain range graphic. Perfect for those who love the outdoors or want to add a touch of nature-inspired design to their look, this tee is crafted from soft, breathable fabric ensuring all-day comfort. Ideal for casual outings or as a unique gift, this t-shirt is a versatile addition to any collection.",
+      "images": [
         "https://i.imgur.com/QkIa5tT.jpeg",
         "https://i.imgur.com/jb5Yu0h.jpeg",
         "https://i.imgur.com/UlxxXyG.jpeg"
-    ],
-    "category": {
+      ],
+      "category": {
         "id": 1,
         "name": "Clothes",
-        "image": "https://i.imgur.com/QkIa5tT.jpeg",
-    }
-},
+        "image": "https://i.imgur.com/QkIa5tT.jpeg"
+      }
+    },
     {
-    "id": 2,
-    "title": "Classic Red Pullover Hoodie",
-    "price": 10,
-    "description": "Elevate your casual wardrobe with our Classic Red Pullover Hoodie. Crafted with a soft cotton blend for ultimate comfort, this vibrant red hoodie features a kangaroo pocket, adjustable drawstring hood, and ribbed cuffs for a snug fit. The timeless design ensures easy pairing with jeans or joggers for a relaxed yet stylish look, making it a versatile addition to your everyday attire.",
-    "images": [
+      "id": 2,
+      "title": "Classic Red Pullover Hoodie",
+      "price": 10,
+      "description": "Elevate your casual wardrobe with our Classic Red Pullover Hoodie. Crafted with a soft cotton blend for ultimate comfort, this vibrant red hoodie features a kangaroo pocket, adjustable drawstring hood, and ribbed cuffs for a snug fit. The timeless design ensures easy pairing with jeans or joggers for a relaxed yet stylish look, making it a versatile addition to your everyday attire.",
+      "images": [
         "https://i.imgur.com/1twoaDy.jpeg",
         "https://i.imgur.com/FDwQgLy.jpeg",
         "https://i.imgur.com/kg1ZhhH.jpeg"
-    ],
-    "category": {
+      ],
+      "category": {
         "id": 1,
         "name": "Clothes",
-        "image": "https://i.imgur.com/QkIa5tT.jpeg",
-    }
-},
+        "image": "https://i.imgur.com/QkIa5tT.jpeg"
+      }
+    },
     {
-    "id": 3,
-    "title": "Classic Heather Gray Hoodie",
-    "price": 69,
-    "description": "Stay cozy and stylish with our Classic Heather Gray Hoodie. Crafted from soft, durable fabric, it features a kangaroo pocket, adjustable drawstring hood, and ribbed cuffs. Perfect for a casual day out or a relaxing evening in, this hoodie is a versatile addition to any wardrobe.",
-    "images": [
+      "id": 3,
+      "title": "Classic Heather Gray Hoodie",
+      "price": 69,
+      "description": "Stay cozy and stylish with our Classic Heather Gray Hoodie. Crafted from soft, durable fabric, it features a kangaroo pocket, adjustable drawstring hood, and ribbed cuffs. Perfect for a casual day out or a relaxing evening in, this hoodie is a versatile addition to any wardrobe.",
+      "images": [
         "https://i.imgur.com/cHddUCu.jpeg",
         "https://i.imgur.com/CFOjAgK.jpeg",
         "https://i.imgur.com/wbIMMme.jpeg"
-    ],
-    "category": {
+      ],
+      "category": {
         "id": 1,
         "name": "Clothes",
-        "image": "https://i.imgur.com/QkIa5tT.jpeg",
-    }
-},
+        "image": "https://i.imgur.com/QkIa5tT.jpeg"
+      }
+    },
     {
-    "id": 4,
-    "title": "Classic Grey Hooded Sweatshirt",
-    "price": 90,
-    "description": "Elevate your casual wear with our Classic Grey Hooded Sweatshirt. Made from a soft cotton blend, this hoodie features a front kangaroo pocket, an adjustable drawstring hood, and ribbed cuffs for a snug fit. Perfect for those chilly evenings or lazy weekends, it pairs effortlessly with your favorite jeans or joggers.",
-    "images": [
+      "id": 4,
+      "title": "Classic Grey Hooded Sweatshirt",
+      "price": 90,
+      "description": "Elevate your casual wear with our Classic Grey Hooded Sweatshirt. Made from a soft cotton blend, this hoodie features a front kangaroo pocket, an adjustable drawstring hood, and ribbed cuffs for a snug fit. Perfect for those chilly evenings or lazy weekends, it pairs effortlessly with your favorite jeans or joggers.",
+      "images": [
         "https://i.imgur.com/R2PN9Wq.jpeg",
         "https://i.imgur.com/IvxMPFr.jpeg",
         "https://i.imgur.com/7eW9nXP.jpeg"
-    ],
-    "category": {
+      ],
+      "category": {
         "id": 1,
         "name": "Clothes",
-        "image": "https://i.imgur.com/QkIa5tT.jpeg",
-    }
-},
+        "image": "https://i.imgur.com/QkIa5tT.jpeg"
+      }
+    },
     {
-    "id": 5,
-    "title": "Classic Black Hooded Sweatshirt",
-    "price": 79,
-    "description": "Elevate your casual wardrobe with our Classic Black Hooded Sweatshirt. Made from high-quality, soft fabric that ensures comfort and durability, this hoodie features a spacious kangaroo pocket and an adjustable drawstring hood. Its versatile design makes it perfect for a relaxed day at home or a casual outing.",
-    "images": [
+      "id": 5,
+      "title": "Classic Black Hooded Sweatshirt",
+      "price": 79,
+      "description": "Elevate your casual wardrobe with our Classic Black Hooded Sweatshirt. Made from high-quality, soft fabric that ensures comfort and durability, this hoodie features a spacious kangaroo pocket and an adjustable drawstring hood. Its versatile design makes it perfect for a relaxed day at home or a casual outing.",
+      "images": [
         "https://i.imgur.com/cSytoSD.jpeg",
         "https://i.imgur.com/WwKucXb.jpeg",
         "https://i.imgur.com/cE2Dxh9.jpeg"
-    ],
-    "category": {
+      ],
+      "category": {
         "id": 1,
         "name": "Clothes",
-        "image": "https://i.imgur.com/QkIa5tT.jpeg",
-    }
-},
+        "image": "https://i.imgur.com/QkIa5tT.jpeg"
+      }
+    },
     {
-    "id": 6,
-    "title": "Classic Comfort Fit Joggers",
-    "price": 25,
-    "description": "Discover the perfect blend of style and comfort with our Classic Comfort Fit Joggers. These versatile black joggers feature a soft elastic waistband with an adjustable drawstring, two side pockets, and ribbed ankle cuffs for a secure fit. Made from a lightweight and durable fabric, they are ideal for both active days and relaxed lounging.",
-    "images": [
+      "id": 6,
+      "title": "Classic Comfort Fit Joggers",
+      "price": 25,
+      "description": "Discover the perfect blend of style and comfort with our Classic Comfort Fit Joggers. These versatile black joggers feature a soft elastic waistband with an adjustable drawstring, two side pockets, and ribbed ankle cuffs for a secure fit. Made from a lightweight and durable fabric, they are ideal for both active days and relaxed lounging.",
+      "images": [
         "https://i.imgur.com/ZKGofuB.jpeg",
         "https://i.imgur.com/GJi73H0.jpeg",
         "https://i.imgur.com/633Fqrz.jpeg"
-    ],
-    "category": {
+      ],
+      "category": {
         "id": 1,
         "name": "Clothes",
-        "image": "https://i.imgur.com/QkIa5tT.jpeg",
-    }
-},
+        "image": "https://i.imgur.com/QkIa5tT.jpeg"
+      }
+    },
     {
-    "id": 7,
-    "title": "Classic Comfort Drawstring Joggers",
-    "price": 79,
-    "description": "Experience the perfect blend of comfort and style with our Classic Comfort Drawstring Joggers. Designed for a relaxed fit, these joggers feature a soft, stretchable fabric, convenient side pockets, and an adjustable drawstring waist with elegant gold-tipped detailing. Ideal for lounging or running errands, these pants will quickly become your go-to for effortless, casual wear.",
-    "images": [
+      "id": 7,
+      "title": "Classic Comfort Drawstring Joggers",
+      "price": 79,
+      "description": "Experience the perfect blend of comfort and style with our Classic Comfort Drawstring Joggers. Designed for a relaxed fit, these joggers feature a soft, stretchable fabric, convenient side pockets, and an adjustable drawstring waist with elegant gold-tipped detailing. Ideal for lounging or running errands, these pants will quickly become your go-to for effortless, casual wear.",
+      "images": [
         "https://i.imgur.com/mp3rUty.jpeg",
         "https://i.imgur.com/JQRGIc2.jpeg"
-    ],
-    "category": {
+      ],
+      "category": {
         "id": 1,
         "name": "Clothes",
-        "image": "https://i.imgur.com/QkIa5tT.jpeg",
-    }
-},
+        "image": "https://i.imgur.com/QkIa5tT.jpeg"
+      }
+    },
     {
-    "id": 8,
-    "title": "Classic Red Jogger Sweatpants",
-    "price": 98,
-    "description": "Experience ultimate comfort with our red jogger sweatpants, perfect for both workout sessions and lounging around the house. Made with soft, durable fabric, these joggers feature a snug waistband, adjustable drawstring, and practical side pockets for functionality. Their tapered design and elastic cuffs offer a modern fit that keeps you looking stylish on the go.",
-    "images": [
+      "id": 8,
+      "title": "Classic Red Jogger Sweatpants",
+      "price": 98,
+      "description": "Experience ultimate comfort with our red jogger sweatpants, perfect for both workout sessions and lounging around the house. Made with soft, durable fabric, these joggers feature a snug waistband, adjustable drawstring, and practical side pockets for functionality. Their tapered design and elastic cuffs offer a modern fit that keeps you looking stylish on the go.",
+      "images": [
         "https://i.imgur.com/9LFjwpI.jpeg",
         "https://i.imgur.com/vzrTgUR.jpeg",
         "https://i.imgur.com/p5NdI6n.jpeg"
-    ],
-    "category": {
+      ],
+      "category": {
         "id": 1,
         "name": "Clothes",
-        "image": "https://i.imgur.com/QkIa5tT.jpeg",
-    }
-},
+        "image": "https://i.imgur.com/QkIa5tT.jpeg"
+      }
+    },
     {
-    "id": 9,
-    "title": "Classic Navy Blue Baseball Cap",
-    "price": 61,
-    "description": "Step out in style with this sleek navy blue baseball cap. Crafted from durable material, it features a smooth, structured design and an adjustable strap for the perfect fit. Protect your eyes from the sun and complement your casual looks with this versatile and timeless accessory.",
-    "images": [
+      "id": 9,
+      "title": "Classic Navy Blue Baseball Cap",
+      "price": 61,
+      "description": "Step out in style with this sleek navy blue baseball cap. Crafted from durable material, it features a smooth, structured design and an adjustable strap for the perfect fit. Protect your eyes from the sun and complement your casual looks with this versatile and timeless accessory.",
+      "images": [
         "https://i.imgur.com/R3iobJA.jpeg",
         "https://i.imgur.com/Wv2KTsf.jpeg",
         "https://i.imgur.com/76HAxcA.jpeg"
-    ],
-    "category": {
+      ],
+      "category": {
         "id": 1,
         "name": "Clothes",
-        "image": "https://i.imgur.com/QkIa5tT.jpeg",
-
-    }
-},
+        "image": "https://i.imgur.com/QkIa5tT.jpeg"
+      }
+    },
     {
-    "id": 18,
-    "title": "Sleek White & Orange Wireless Gaming Controller",
-    "price": 69,
-    "description": "Elevate your gaming experience with this state-of-the-art wireless controller, featuring a crisp white base with vibrant orange accents. Designed for precision play, the ergonomic shape and responsive buttons provide maximum comfort and control for endless hours of gameplay. Compatible with multiple gaming platforms, this controller is a must-have for any serious gamer looking to enhance their setup.",
-    "images": [
+      "id": 18,
+      "title": "Sleek White & Orange Wireless Gaming Controller",
+      "price": 69,
+      "description": "Elevate your gaming experience with this state-of-the-art wireless controller, featuring a crisp white base with vibrant orange accents. Designed for precision play, the ergonomic shape and responsive buttons provide maximum comfort and control for endless hours of gameplay. Compatible with multiple gaming platforms, this controller is a must-have for any serious gamer looking to enhance their setup.",
+      "images": [
         "https://i.imgur.com/ZANVnHE.jpeg",
         "https://i.imgur.com/Ro5z6Tn.jpeg",
         "https://i.imgur.com/woA93Li.jpeg"
-    ],
-    "category": {
+      ],
+      "category": {
         "id": 2,
         "name": "Electronics",
-        "image": "https://i.imgur.com/ZANVnHE.jpeg",
-
-    }
-},
+        "image": "https://i.imgur.com/ZANVnHE.jpeg"
+      }
+    },
     {
-    "id": 24,
-    "title": "Sleek Modern Laptop for Professionals",
-    "price": 97,
-    "description": "Experience cutting-edge technology and elegant design with our latest laptop model. Perfect for professionals on-the-go, this high-performance laptop boasts a powerful processor, ample storage, and a long-lasting battery life, all encased in a lightweight, slim frame for ultimate portability. Shop now to elevate your work and play.",
-    "images": [
+      "id": 24,
+      "title": "Sleek Modern Laptop for Professionals",
+      "price": 97,
+      "description": "Experience cutting-edge technology and elegant design with our latest laptop model. Perfect for professionals on-the-go, this high-performance laptop boasts a powerful processor, ample storage, and a long-lasting battery life, all encased in a lightweight, slim frame for ultimate portability. Shop now to elevate your work and play.",
+      "images": [
         "https://i.imgur.com/ItHcq7o.jpeg",
         "https://i.imgur.com/55GM3XZ.jpeg",
         "https://i.imgur.com/tcNJxoW.jpeg"
-    ],
-    "category": {
+      ],
+      "category": {
         "id": 2,
         "name": "Electronics",
-        "image": "https://i.imgur.com/ZANVnHE.jpeg",
-    }
-},
+        "image": "https://i.imgur.com/ZANVnHE.jpeg"
+      }
+    },
     {
-    "id": 28,
-    "title": "Sleek Modern Leather Sofa",
-    "price": 53,
-    "description": "Enhance the elegance of your living space with our Sleek Modern Leather Sofa. Designed with a minimalist aesthetic, it features clean lines and a luxurious leather finish. The robust metal legs provide stability and support, while the plush cushions ensure comfort. Perfect for contemporary homes or office waiting areas, this sofa is a statement piece that combines style with practicality.",
-    "images": [
+      "id": 28,
+      "title": "Sleek Modern Leather Sofa",
+      "price": 53,
+      "description": "Enhance the elegance of your living space with our Sleek Modern Leather Sofa. Designed with a minimalist aesthetic, it features clean lines and a luxurious leather finish. The robust metal legs provide stability and support, while the plush cushions ensure comfort. Perfect for contemporary homes or office waiting areas, this sofa is a statement piece that combines style with practicality.",
+      "images": [
         "https://i.imgur.com/Qphac99.jpeg",
         "https://i.imgur.com/dJjpEgG.jpeg",
         "https://i.imgur.com/MxJyADq.jpeg"
-    ],
-    "category": {
+      ],
+      "category": {
         "id": 3,
         "name": "Furniture",
-        "image": "https://i.imgur.com/Qphac99.jpeg",
-    }
-},
+        "image": "https://i.imgur.com/Qphac99.jpeg"
+      }
+    },
     {
-    "id": 49,
-    "title": "Chic Transparent Fashion Handbag",
-    "price": 61,
-    "description": "Elevate your style with our Chic Transparent Fashion Handbag, perfect for showcasing your essentials with a clear, modern edge. This trendy accessory features durable acrylic construction, luxe gold-tone hardware, and an elegant chain strap. Its compact size ensures you can carry your day-to-day items with ease and sophistication.",
-    "images": [
+      "id": 49,
+      "title": "Chic Transparent Fashion Handbag",
+      "price": 61,
+      "description": "Elevate your style with our Chic Transparent Fashion Handbag, perfect for showcasing your essentials with a clear, modern edge. This trendy accessory features durable acrylic construction, luxe gold-tone hardware, and an elegant chain strap. Its compact size ensures you can carry your day-to-day items with ease and sophistication.",
+      "images": [
         "https://i.imgur.com/Lqaqz59.jpg",
         "https://i.imgur.com/uSqWK0m.jpg",
         "https://i.imgur.com/atWACf1.jpg"
-    ],
-    "category": {
+      ],
+      "category": {
         "id": 5,
         "name": "Miscellaneous",
-        "image": "https://i.imgur.com/BG8J0Fj.jpg",
-    }
-},
+        "image": "https://i.imgur.com/BG8J0Fj.jpg"
+      }
+    },
     {
-    "id": 23,
-    "title": "Sleek Modern Laptop with Ambient Lighting",
-    "price": 43,
-    "description": "Experience next-level computing with our ultra-slim laptop, featuring a stunning display illuminated by ambient lighting. This high-performance machine is perfect for both work and play, delivering powerful processing in a sleek, portable design. The vibrant colors add a touch of personality to your tech collection, making it as stylish as it is functional.",
-    "images": [
+      "id": 23,
+      "title": "Sleek Modern Laptop with Ambient Lighting",
+      "price": 43,
+      "description": "Experience next-level computing with our ultra-slim laptop, featuring a stunning display illuminated by ambient lighting. This high-performance machine is perfect for both work and play, delivering powerful processing in a sleek, portable design. The vibrant colors add a touch of personality to your tech collection, making it as stylish as it is functional.",
+      "images": [
         "https://i.imgur.com/OKn1KFI.jpeg",
         "https://i.imgur.com/G4f21Ai.jpeg",
         "https://i.imgur.com/Z9oKRVJ.jpeg"
-    ],
-    "category": {
+      ],
+      "category": {
         "id": 2,
         "name": "Electronics",
-        "image": "https://i.imgur.com/ZANVnHE.jpeg",
-    }
-},
+        "image": "https://i.imgur.com/ZANVnHE.jpeg"
+      }
+    },
     {
-    "id": 42,
-    "title": "Elegant Patent Leather Peep-Toe Pumps with Gold-Tone Heel",
-    "price": 53,
-    "description": "Step into sophistication with these chic peep-toe pumps, showcasing a lustrous patent leather finish and an eye-catching gold-tone block heel. The ornate buckle detail adds a touch of glamour, perfect for elevating your evening attire or complementing a polished daytime look.",
-    "images": [
+      "id": 42,
+      "title": "Elegant Patent Leather Peep-Toe Pumps with Gold-Tone Heel",
+      "price": 53,
+      "description": "Step into sophistication with these chic peep-toe pumps, showcasing a lustrous patent leather finish and an eye-catching gold-tone block heel. The ornate buckle detail adds a touch of glamour, perfect for elevating your evening attire or complementing a polished daytime look.",
+      "images": [
         "https://i.imgur.com/AzAY4Ed.jpeg",
         "https://i.imgur.com/umfnS9P.jpeg",
         "https://i.imgur.com/uFyuvLg.jpeg"
-    ],
-    "category": {
+      ],
+      "category": {
         "id": 4,
         "name": "Shoes",
-        "image": "https://i.imgur.com/qNOjJje.jpeg",
-    }
-}
+        "image": "https://i.imgur.com/qNOjJje.jpeg"
+      }
+    },
     {
       "id": 43,
       "title": "Elegant Purple Leather Loafers",
