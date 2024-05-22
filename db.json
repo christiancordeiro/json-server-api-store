@@ -393,5 +393,9 @@
       "name": "Electronics",
       "image": "https://i.imgur.com/ZANVnHE.jpeg"
     }
+    {
+      "id": 0,
+      "name": "All",
+    }
   ]
 }
