@@ -374,11 +374,6 @@
   ],
   "categories": [
     {
-      "id": 0,
-      "name": "All",
-      "image": ""
-    },
-    {
       "id": 4,
       "name": "Shoes",
       "image": "https://i.imgur.com/qNOjJje.jpeg"
